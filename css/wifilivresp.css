@@ -82,6 +82,10 @@ header {
   margin: auto;
 }
 
+.pontos-programa {
+  padding-top: 10%;
+}
+
 .progress-bar {
   background-color: #000;
   padding-top: 3%;
