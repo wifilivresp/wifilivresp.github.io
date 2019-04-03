@@ -106,6 +106,10 @@ header {
   font-weight: bold;
 }
 
+.progress-bar {
+  color: #CCFFBA;
+}
+
 .localidade-numero {
   font-size: 3rem;
 }
