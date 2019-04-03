@@ -10,6 +10,7 @@ body {
 */
 header {
   height: 1380px;
+  background-img: url("img/city.png");
 }
 
 .destaque {
