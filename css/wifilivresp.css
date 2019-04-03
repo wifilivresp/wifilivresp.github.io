@@ -1,6 +1,6 @@
 body {
   overflow-x: hidden;
-  font-family: "Roboto", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 /*
 .wifi-header {
@@ -58,6 +58,7 @@ header {
   font-size: 14rem;
   font-weight: bold;
   left: 100px;
+  color: #CCFFBA;
 }
 
 .indicador-descricao {
@@ -93,6 +94,10 @@ header {
   font-size: 3rem;
   font-weight: bold;
 }
+/*
+#localidades {
+  background-color: #0D293C;
+}*/
 
 .localidade {
   text-align: center;
@@ -140,8 +145,7 @@ h3,
 h4,
 h5,
 h6 {
-  /*font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -159,7 +163,7 @@ h6 {
   background-color: #fed136;
   border-color: #fed136;
   /*font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -204,7 +208,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: #fed136;
   border-color: #fed136;
   /*font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   border-radius: 3px;
@@ -254,7 +258,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-brand {
   color: #fed136;
   /*font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;*/
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
@@ -269,7 +273,7 @@ fieldset[disabled] .btn-xl.active {
   background-color: #fed136;
   border-color: #fed136;
   /*font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   color: white;
   font-size: 12px;
@@ -280,7 +284,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .nav li a {
   /*font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 1px;
@@ -330,7 +334,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-color: #5C73A8;
+  background-color: #CCFFBA;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -347,7 +351,7 @@ header .intro-text {
 }
 header .intro-text .intro-lead-in {
   /*font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-style: italic;
   font-size: 22px;
   line-height: 22px;
@@ -355,7 +359,7 @@ header .intro-text .intro-lead-in {
 }
 header .intro-text .intro-heading {
   /*font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 50px;
@@ -376,7 +380,7 @@ header .intro-heading {
   }
   header .intro-text .intro-lead-in {
     /*font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-style: italic;
     font-size: 40px;
     line-height: 40px;
@@ -384,7 +388,7 @@ header .intro-heading {
   }
   header .intro-text .intro-heading {
     /*font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 75px;
@@ -403,7 +407,7 @@ section h2.section-heading {
 section h3.section-subheading {
   font-size: 16px;
   /*font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-transform: none;
   font-style: italic;
   font-weight: 400;
@@ -486,7 +490,7 @@ footer {
 }
 
 footer p {
-  font-family: 'Roboto';
+  font-family: 'Montserrat';
   color: white;
   font-stretch: bold;
   text-align: left;
