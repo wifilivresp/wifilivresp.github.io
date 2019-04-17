@@ -29,6 +29,7 @@ header {
 
 .destaque-desc-bottom {
   font-weight: normal;
+  font-size: 120%;
 }
 
 .icon-header {
@@ -38,7 +39,7 @@ header {
 
 .programa {
   background-color: #0D293C;
-  height: 60vh;
+  height: 70vh;
 }
 
 .indicador-programa {
@@ -56,6 +57,13 @@ header {
 
 .indicador-number {
   font-size: 14rem;
+  font-weight: bold;
+  left: 100px;
+  color: #CCFFBA;
+}
+
+.indicador-number2 {
+  font-size: 5rem;
   font-weight: bold;
   left: 100px;
   color: #CCFFBA;
@@ -79,9 +87,9 @@ header {
 
 .progress {
   border-radius: 15px;
-  height: 80px;
+  height: 120px;
   width: 49%;
-  margin: auto;
+  margin-left: 25.5%
 }
 
 .pontos-programa {
@@ -465,8 +473,8 @@ body {
 }
 
 footer {
-  background-color: #0D293C;  
-  height: 300px; 
+  background-color: #0D293C;
+  height: 300px;
 }
 
 .footer__logo--list {
@@ -544,4 +552,20 @@ footer p {
 
 }
 
-/* FOOTER MOBILE */
+tr:hover {
+  background-color: #ddd;
+}
+
+td {
+  border: 1px solid #000;
+  padding-right: 0.5%;
+  padding-left: 0.5%;
+}
+
+th {
+  border: 1px solid #fff;
+  padding-right: 0.5%;
+  padding-left: 0.5%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+}
