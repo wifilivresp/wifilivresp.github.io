@@ -39,7 +39,8 @@ header {
 
 .programa {
   background-color: #0D293C;
-  height: 70vh;
+  height: 75vh;
+  width: 100%;
 }
 
 .indicador-programa {
@@ -426,6 +427,17 @@ section h3.section-subheading {
   font-weight: 400;
   margin-bottom: 75px;
 }
+
+section h5.section-subheading {
+  font-size: 16px;
+  /*font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-family: 'Montserrat', sans-serif;
+  text-transform: none;
+  font-style: italic;
+  font-weight: 400;
+  margin-bottom: 75px;
+}
+
 @media (min-width: 768px) {
   section {
     padding: 150px 0;
@@ -509,7 +521,7 @@ footer p {
   font-stretch: bold;
   text-align: left;
   line-height: 1.6;
-  padding-top: 6rem;
+  padding-top: 7.5rem;
   padding-left: 2%;
 }
 
@@ -574,4 +586,5 @@ th {
 
 table {
   margin-left: 40px;
+  margin-right: 40px;
 }
