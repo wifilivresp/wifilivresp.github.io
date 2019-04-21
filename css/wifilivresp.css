@@ -495,7 +495,7 @@ footer {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  padding-left: 3.5rem;
+  padding-left: 4rem;
 }
 
 .footer__logo--wifi {
