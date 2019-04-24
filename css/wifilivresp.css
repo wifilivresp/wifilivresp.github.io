@@ -547,11 +547,11 @@ footer p {
 
   footer {
     height: 400px;
-    color: white;
   }
 
   footer p {
     text-align: center;
+    color: white;
   }
 
   #left-controller, #right-controller {
