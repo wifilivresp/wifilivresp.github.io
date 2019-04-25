@@ -587,3 +587,14 @@ table {
   margin-left: 4vw;
   margin-right: 4vw;
 }
+
+.noticias {
+  margin-left: 1.2vw;
+  margin-right: 1.2vw;
+}
+
+.noticias-descricao {
+  color:#0d293c; 
+  font-weight: bold; 
+  font-size: 15px;
+}
