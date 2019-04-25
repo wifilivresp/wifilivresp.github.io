@@ -318,7 +318,7 @@ fieldset[disabled] .btn-xl.active {
   color: white;
   background-color: #fec503;
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .navbar-custom {
     background-color: transparent;
     padding: 25px 0;
@@ -337,7 +337,7 @@ fieldset[disabled] .btn-xl.active {
     border-radius: 3px;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .navbar-custom.affix {
     background-color: #0D293C;
     padding: 10px 0;
@@ -386,7 +386,7 @@ header .intro-heading {
   width: 50vw; 
 }
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   header .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
@@ -437,7 +437,7 @@ section h5.section-subheading {
   margin-bottom: 75px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   section {
     padding: 150px 0;
   }
@@ -529,7 +529,7 @@ footer p {
 
 /* FOOTER MOBILE */
 
-@media (max-width: 991px) {
+@media (max-width: 992px) {
 
   body {
     overflow-x: hidden;
