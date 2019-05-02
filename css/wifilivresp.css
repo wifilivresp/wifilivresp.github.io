@@ -381,8 +381,8 @@ header .intro-text .intro-heading {
 
 header .intro-heading {
   padding-top: 20vh;
-  height: 50vh;
-  width: 50vw; 
+  height: 55vh;
+  width: 55vw; 
 }
 
 @media (min-width: 992px) {
