@@ -598,3 +598,9 @@ table {
   font-weight: bold; 
   font-size: 15px;
 }
+
+#myCarousel {
+  margin-bottom: 2%;
+  margin-top: -5%;
+  max-width: 70vw;
+}
